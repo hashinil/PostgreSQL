@@ -12,3 +12,9 @@
 
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
+>
+```
+git status
+git add
+git commit
+```
