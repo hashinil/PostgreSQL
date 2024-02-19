@@ -3,8 +3,10 @@
 > SELECT
 > 
 > ORDER BY
-> 
+> LIMIT
 > DISTINCT
+> COUNT
+
 
 
 > [!NOTE]
