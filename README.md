@@ -1,3 +1,12 @@
+**Begginer**
+
+> SELECT
+> 
+> ORDER BY
+> 
+> DISTINCT
+
+
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
 
