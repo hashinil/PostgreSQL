@@ -1,11 +1,10 @@
 **Begginer**
 
-> SELECT
-> 
-> ORDER BY
-> LIMIT
-> DISTINCT
-> COUNT
+-   [x] SELECT
+-   [x] ORDER BY
+-   [x] LIMIT
+-   [x] DISTINCT
+-   [x] COUNT
 
 
 
