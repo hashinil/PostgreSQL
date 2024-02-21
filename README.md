@@ -1,12 +1,16 @@
-**Begginer**
+### Begginer
 
+**DAY 1**
 -   [x] SELECT
 -   [x] ORDER BY
 -   [x] LIMIT
 -   [x] DISTINCT
 -   [x] COUNT
 
-
+**DAY 2**
+-   [x] WHERE
+-   [x] 
+-   [x] 
 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
