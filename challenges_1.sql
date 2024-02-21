@@ -1,4 +1,5 @@
 -- Challenge 1
+-- a list of all of the customers with the first name of the customer, the last name and customer's email address.
 SELECT * 
 FROM customer;
 
