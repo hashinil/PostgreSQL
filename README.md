@@ -8,9 +8,15 @@
 -   [x] COUNT
 
 **DAY 2**
--   [x] WHERE
--   [x] 
--   [x] 
+-   [x] WHERE - < > <= >= != <> null AND OR
+-   [x] BETWEEN
+-   [x] IN / NOT IN
+-   [x] LIKE / NOT LIKE % _
+-   [x] Comments/ Aliases
+
+**DAY 3**
+-   [x] GROUPING DATA
+
 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
