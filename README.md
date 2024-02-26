@@ -15,7 +15,9 @@
 -   [x] Comments/ Aliases
 
 **DAY 3**
--   [x] GROUPING DATA
+-   [x] Aggregation - SUM, COUNT, AVG, MIN, MAX
+-   [x] GROUP BY 
+-   [x] HAVING
 
 
 > [!NOTE]
