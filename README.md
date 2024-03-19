@@ -19,6 +19,10 @@
 -   [x] GROUP BY 
 -   [x] HAVING
 
+**DAY 3**
+-   [x] String Functions
+-   [x] Date/Time Functions
+-   [x] Mathematical Functions/Operators
 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
