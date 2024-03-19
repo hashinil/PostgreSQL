@@ -19,9 +19,12 @@
 -   [x] GROUP BY 
 -   [x] HAVING
 
-**DAY 3**
+**DAY 4**
 -   [x] String Functions
 -   [x] Date/Time Functions
+
+**DAY 5**
+-   [x] Conditional Expressions
 -   [x] Mathematical Functions/Operators
 
 > [!NOTE]
