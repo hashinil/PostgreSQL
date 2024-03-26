@@ -27,6 +27,9 @@
 -   [x] Mathematical Functions/Operators
 -   [x] Conditional Expressions - CASE WHEN, SUM, COALESCE, CAST, REPLACE
 
+**DAY 6**
+-   [x] 
+-   [x] 
 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
