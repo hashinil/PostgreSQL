@@ -9,7 +9,7 @@
 
 **DAY 2**
 -   [x] WHERE - < > <= >= != <> null AND OR
--   [x] BETWEEN
+-   [x] BETWEEN / NOT BETWEEN
 -   [x] IN / NOT IN
 -   [x] LIKE / NOT LIKE % _
 -   [x] Comments/ Aliases
@@ -20,12 +20,13 @@
 -   [x] HAVING
 
 **DAY 4**
--   [x] String Functions
--   [x] Date/Time Functions
+-   [x] String Functions - UPPER, LOWER, LENGTH, LEFT/ RIGHT, CONCATENATE, POSITION, SUBSTRING
+-   [x] Date/Time Functions - EXTARCT, TO_CHAR, TimeStamp, Intervals, 
 
 **DAY 5**
--   [x] Conditional Expressions
 -   [x] Mathematical Functions/Operators
+-   [x] Conditional Expressions - CASE WHEN, SUM, COALESCE, CAST, REPLACE
+
 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
