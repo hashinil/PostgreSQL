@@ -28,8 +28,8 @@
 -   [x] Conditional Expressions - CASE WHEN, SUM, COALESCE, CAST, REPLACE
 
 **DAY 6**
--   [x] 
--   [x] 
+-   [x] Joins - Inner Join, Full outer join, LEFT OUTER JOIN/ / LEFT JOIN, RIGHT OUTER JOIN/ RIGHT JOIN, Joins on Multiple conditions
+-   [x] JOIN MULTIPLE TABLE
 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
