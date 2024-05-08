@@ -31,6 +31,10 @@
 -   [x] Joins - Inner Join, Full outer join, LEFT OUTER JOIN/ / LEFT JOIN, RIGHT OUTER JOIN/ RIGHT JOIN, Joins on Multiple conditions
 -   [x] JOIN MULTIPLE TABLE
 
+**DAY 7**
+-   [x] 
+-   [x] 
+
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
 
