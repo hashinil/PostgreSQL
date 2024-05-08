@@ -32,8 +32,11 @@
 -   [x] JOIN MULTIPLE TABLE
 
 **DAY 7**
--   [x] 
--   [x] 
+-   [x] Union
+-   [x] Subqueries in WHERE
+-   [x] Subqueries in FROM
+-   [x] Subqueries in SELECT
+         
 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
