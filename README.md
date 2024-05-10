@@ -39,6 +39,10 @@
 -   [x] Correlated sub queries in WHERE
 -   [x] Correlated sub queries in SELECT
          
+**DAY 7**
+-   [x] Mid Course Project
+
+
 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
