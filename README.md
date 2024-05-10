@@ -36,6 +36,8 @@
 -   [x] Subqueries in WHERE
 -   [x] Subqueries in FROM
 -   [x] Subqueries in SELECT
+-   [x] Correlated sub queries in WHERE
+-   [x] Correlated sub queries in SELECT
          
 
 > [!NOTE]
