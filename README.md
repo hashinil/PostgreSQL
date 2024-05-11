@@ -65,6 +65,46 @@
 -   [x] MANGING VIEWS
 -   [x] IMPORT AND EXPORT
 
+
+
+**DAY 11**
+-   [x] WIndow functions
+-   [x] OVER() with PARTITION BY
+-   [x] OVER() with ORDER BY
+-   [x] RANK()
+-   [x] FIRST_VALUE()
+-   [x] LEAD & LAG
+
+
+**DAY 12**
+-   [x] Grouping sets
+-   [x] ROLLUP
+-   [x] CUBE
+-   [x] SELF JOIN
+-   [x] CROSS JOIN
+-   [x] NATURAL JOIN
+
+**DAY 13**
+-   [x] Course Project
+
+**DAY 14**
+-   [x] USER DEFINED FUNCTIONS
+-   [x] TRANSACTIONS
+-   [x] Rollbacks
+-   [x] Stored procedures
+
+**DAY 15**
+-   [x] User management
+-   [x] Create User|Role
+-   [x] GRANT & revoke privileges
+-   [x] indexes
+-   [x] B-tree index
+-   [x] bitmap index
+-   [x] indexes guidelines
+-   [x] creating indexes
+-   [x] execution plan & query performance
+
+-   [ ] 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
 
