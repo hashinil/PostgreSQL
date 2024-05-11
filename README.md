@@ -45,15 +45,25 @@
 **DAY 9**
 -   [x] Managing tables and databases
 -   [x] CREATE DB
--   [ ] DROP DB
--   [ ] Data types
--   [ ] Constraints
--   [ ] PK & FK
--   [ ] CREATE table
--   [ ] INSERT
--   [ ] ALTER table
--   [ ] TRUNCATE & DROP
--   [ ] CHECK
+-   [x] DROP DB
+-   [x] Data types
+-   [x] Constraints
+-   [x] PK & FK
+-   [x] CREATE table
+-   [x] INSERT
+-   [x] ALTER table
+-   [x] TRUNCATE & DROP
+-   [x] CHECK
+
+**DAY 10**
+-   [x] Views and data manipulation
+-   [x] UPDATE
+-   [x] DELETE
+-   [x] CREATE TABLE AS
+-   [x] CREATE VIEW
+-   [x] CREATE MATERIALIZED VIEW
+-   [x] MANGING VIEWS
+-   [x] IMPORT AND EXPORT
 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
