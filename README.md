@@ -39,10 +39,21 @@
 -   [x] Correlated sub queries in WHERE
 -   [x] Correlated sub queries in SELECT
          
-**DAY 7**
+**DAY 8**
 -   [x] Mid Course Project
 
-
+**DAY 9**
+-   [x] Managing tables and databases
+-   [x] CREATE DB
+-   [ ] DROP DB
+-   [ ] Data types
+-   [ ] Constraints
+-   [ ] PK & FK
+-   [ ] CREATE table
+-   [ ] INSERT
+-   [ ] ALTER table
+-   [ ] TRUNCATE & DROP
+-   [ ] CHECK
 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
